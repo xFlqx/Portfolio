@@ -16,44 +16,8 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET US <span className="purple"> INTRODUCE </span> OURSELVES
+              NON-PROFITABLE <span className="purple"> ESPORTS </span> ORGANISATION
             </h1>
-            <h2 style={{ fontSize: "2.6em" }}>
-              T9S Directors: Woods - Waifu - No.4 
-            </h2>
-            <h2 style={{ fontSize: "2.6em" }}>
-              T9S Community & Website Management: Fluxx
-            </h2>
-            <p className="home-about-body">
-              <br />
-              <br />
-              <i>
-                <b className="purple"> he Nines Society is a Non-Profit Esports Company </b>
-              </i>
-              <br />
-              <br />
-              
-              <i>
-                <b className="purple"> </b> and
-                {" "}
-                <b className="purple">
-                  
-                </b>
-              </i>
-              <br />
-              <br />
-               <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  
-                </b>
-              </i>
-              &nbsp; 
-              <i>
-                <b className="purple"> </b>
-              </i>
-            </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
@@ -90,7 +54,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://t9s.netlify.app/"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -100,7 +64,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://t9s.netlify.app/"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
