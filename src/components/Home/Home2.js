@@ -16,39 +16,42 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET US <span className="purple"> INTRODUCE </span> OURSELVES
             </h1>
+            <h2 style={{ fontSize: "2.6em" }}>
+              T9S Directors: Woods - Waifu - No.4 
+            </h2>
+            <h2 style={{ fontSize: "2.6em" }}>
+              T9S Community & Website Management: Fluxx
+            </h2>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> he Nines Society is a Non-Profit Esports Company </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple"> </b> and
+                {" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+               <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; 
               <i>
-                <b className="purple"> React.js ans Next.js</b>
+                <b className="purple"> </b>
               </i>
             </p>
           </Col>
@@ -67,7 +70,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/xFlqx"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +80,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/NinesSociety"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +90,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://t9s.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +100,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://t9s.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
