@@ -3,7 +3,7 @@
   <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="" />
+  <img alt="" src="" />
 </div>
 
 <br/>
